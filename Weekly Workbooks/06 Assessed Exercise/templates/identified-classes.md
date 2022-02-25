@@ -1,6 +1,6 @@
 | Possible Class Name    | YES | NO |
 |:-----------------------|:---:|:--:|
-| EastMidlandsAirport    |     |  X |
+| EastMidlandsAirport    |  X   |   |
 | CaptainKevinHunt       |  X  |    |
 | Rudder                 |     |  X |
 | FlightMidland92        |  X  |    |
