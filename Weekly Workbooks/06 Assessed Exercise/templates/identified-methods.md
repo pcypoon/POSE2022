@@ -1,12 +1,12 @@
 | Possible Method Name     | YES | NO |
 |:-------------------------|:---:|:--:|
-| computeNewBearing        |     |    |
-| singleEngineLanding      |     |    |
-| engineThrottle           |     |    |
-| stretchGlide             |     |    |
-| alertTowerToSituation    |     |    |
-| shutIt                   |     |    |
-| takeSelections           |     |    |
-| continueTurnTo150        |     |    |
-| zeroRudder               |     |    |
-| lightUpEngine            |     |    |
+| computeNewBearing        |  X  |    |
+| singleEngineLanding      |  X  |    |
+| engineThrottle           |     |  X |
+| stretchGlide             |  X  |    |
+| alertTowerToSituation    |     |  X |
+| shutIt                   |  X  |    |
+| takeSelections           |  X  |    |
+| continueTurnTo150        |  X  |    |
+| zeroRudder               |     |  X |
+| lightUpEngine            |     | X  |
